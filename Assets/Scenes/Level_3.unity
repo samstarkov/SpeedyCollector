@@ -1941,7 +1941,7 @@ MonoBehaviour:
   endPanel: {fileID: 319145263}
   endTitleText: {fileID: 1991943663}
   starsText: {fileID: 1313735689}
-  nextLevelButton: {fileID: 0}
+  nextLevelButton: {fileID: 1844992400}
   restartButton: {fileID: 1017004021}
   menuButton: {fileID: 1950321332}
   levelTime: 40

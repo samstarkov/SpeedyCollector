@@ -2583,7 +2583,7 @@ MonoBehaviour:
   timerText: {fileID: 1765941178}
   endPanel: {fileID: 1681906897}
   endTitleText: {fileID: 1935915528}
-  starsText: {fileID: 0}
+  starsText: {fileID: 179861127}
   nextLevelButton: {fileID: 763005861}
   restartButton: {fileID: 728214568}
   menuButton: {fileID: 812807231}
